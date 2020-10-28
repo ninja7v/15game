@@ -1,4 +1,4 @@
-15game (or 15puzzle) coded in Pascal created by Luc PREVOST
+15game (or 15puzzle) coded in Pascal by Luc PREVOST
 
 There isn't any GUI, just compile and play directly into the terminal.
 
